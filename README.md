@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning programming /br
+🌱 I’m currently learning programming \n
 https://dreamy-wisp-1f9ac1.netlify.app/ <- this is my introduce
 
 <!--
