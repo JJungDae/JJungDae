@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning programming
+https://dreamy-wisp-1f9ac1.netlify.app/ <- this is my introduce
+
 <!--
 **JJungDae/JJungDae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
